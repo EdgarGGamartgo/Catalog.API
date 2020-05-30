@@ -5005,11 +5005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
+      "projectUniqueName": "C:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
       "projectName": "Catalog.API",
-      "projectPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
+      "projectPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
       "packagesPath": "C:\\Users\\Edgar Martínez\\.nuget\\packages\\",
-      "outputPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.API\\obj\\",
+      "outputPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Edgar Martínez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5025,8 +5025,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
-              "projectPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
+            "C:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
+              "projectPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
             }
           }
         }

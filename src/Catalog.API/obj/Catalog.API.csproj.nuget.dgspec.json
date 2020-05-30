@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj": {}
+    "C:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj": {}
   },
   "projects": {
-    "c:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj": {
+    "C:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
+        "projectUniqueName": "C:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
         "projectName": "Catalog.API",
-        "projectPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
+        "projectPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.API\\Catalog.API.csproj",
         "packagesPath": "C:\\Users\\Edgar Martínez\\.nuget\\packages\\",
-        "outputPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.API\\obj\\",
+        "outputPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edgar Martínez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "c:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
-                "projectPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
+              "C:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
+                "projectPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "c:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj": {
+    "C:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj",
+        "projectUniqueName": "C:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj",
         "projectName": "Catalog.Domain",
-        "projectPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj",
+        "projectPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj",
         "packagesPath": "C:\\Users\\Edgar Martínez\\.nuget\\packages\\",
-        "outputPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\obj\\",
+        "outputPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edgar Martínez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -123,14 +123,14 @@
         }
       }
     },
-    "c:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
+    "C:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+        "projectUniqueName": "C:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
         "projectName": "Catalog.Infrastructure",
-        "projectPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+        "projectPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Edgar Martínez\\.nuget\\packages\\",
-        "outputPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\obj\\",
+        "outputPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edgar Martínez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,8 +146,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "c:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj": {
-                "projectPath": "c:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj"
+              "C:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj": {
+                "projectPath": "C:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/aCHv+OTo6y9R8ueTr7OsOIRO194tz0O/vU/ys6DxOms2I5RtDBGXY2qTBCWp498ptoSzHmFnRAGQkLX03pbzg==",
+  "dgSpecHash": "sKLU93YYThM4eS5AeZq5pSOPCb/+tHGAa4Tuz4qzQ3PAPGtiQ1YnzwRhdKvdxsZmEfDhW0KTQg0vyZwCygGI5g==",
   "success": true,
-  "projectFilePath": "c:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
+  "projectFilePath": "C:\\aspnet\\Catalog.API\\src\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

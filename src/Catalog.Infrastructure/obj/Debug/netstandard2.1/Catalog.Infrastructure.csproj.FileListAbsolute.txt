@@ -1,0 +1,12 @@
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Infrastructure.deps.json
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Infrastructure.dll
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Infrastructure.pdb
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Domain.dll
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\bin\Debug\netstandard2.1\Catalog.Domain.pdb
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.csprojAssemblyReference.cache
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.AssemblyInfoInputs.cache
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.AssemblyInfo.cs
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.csproj.CopyComplete
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.dll
+C:\aspnet\Catalog.API\src\Catalog.Infrastructure\obj\Debug\netstandard2.1\Catalog.Infrastructure.pdb

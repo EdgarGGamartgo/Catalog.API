@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ovOLF6ggCiFNmQuwcEhnSPrcg7LqJp9qmrrqM76mhZxrjnt4Timm8VYxr/Q+hlBmg8k0e+JwfKysk8g1BOEifQ==",
+  "dgSpecHash": "SubzqHJbMvHDYqOk0ExXJd3DxJoxl7HOlvA+Wz/AVbpy3DAuhnlemVljvOddbGOj/+uNux++86sj9xB6GqpOdQ==",
   "success": true,
-  "projectFilePath": "c:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj",
+  "projectFilePath": "C:\\aspnet\\Catalog.API\\src\\Catalog.Domain\\Catalog.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

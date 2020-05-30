@@ -1,0 +1,9 @@
+C:\aspnet\Catalog.API\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.deps.json
+C:\aspnet\Catalog.API\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.dll
+C:\aspnet\Catalog.API\src\Catalog.Domain\bin\Debug\netstandard2.1\Catalog.Domain.pdb
+C:\aspnet\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.csprojAssemblyReference.cache
+C:\aspnet\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.AssemblyInfoInputs.cache
+C:\aspnet\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.AssemblyInfo.cs
+C:\aspnet\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\aspnet\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.dll
+C:\aspnet\Catalog.API\src\Catalog.Domain\obj\Debug\netstandard2.1\Catalog.Domain.pdb
