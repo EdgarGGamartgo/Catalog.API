@@ -1,0 +1,56 @@
+[
+    {
+        "Id": "fb7aee37-66ae-4cad-a2f8-19a1e4fb6306",
+        "Name": "DAMN",
+        "Description": "DAMN by Kendrick Lamar",
+        "LabelName": "TDE, Top Dawg Entertainment",
+        "Price": {
+            "Amount": 34.5,
+            "Currency": "EUR"
+        },
+        "PictureUri": "https://mycdn.com/pictures/45345345",
+        "ReleaseDate": "2017-01-01T00:00:00+00:00",
+        "Format": "Vinyl 33g",
+        "AvailableStock": 5,
+        "GenreId": "ce86457b-caae-4c9d-bac9-3a4d61e3d0db",
+        "Genre": null,
+        "ArtistId": "fd6d21fd-0bd3-49cc-82ea-a380e73283ef",
+        "Artist": null
+    },
+    {
+        "Id": "bab66bfd-e8bb-40db-af94-be745cdc1f11",
+        "Name": "GOOD KID, m.A.A.d CITY",
+        "Description": "GOOD KID, m.A.A.d CITY by Kendrick Lamar",
+        "LabelName": "TDE, Top Dawg Entertainment",
+        "Price": {
+            "Amount": 23.5,
+            "Currency": "EUR"
+        },
+        "PictureUri": "https://mycdn.com/pictures/45345345",
+        "ReleaseDate": "2016-01-01T00:00:00+00:00",
+        "Format": "Vinyl 33g",
+        "AvailableStock": 6,
+        "GenreId": "ce86457b-caae-4c9d-bac9-3a4d61e3d0db",
+        "Genre": null,
+        "ArtistId": "fd6d21fd-0bd3-49cc-82ea-a380e73283ef",
+        "Artist": null
+    },
+    {
+        "Id": "da6448ba-cd50-445d-a9ae-fa1e57ce70a9",
+        "Name": "MALIBU",
+        "Description": "Malibu by Anderson Paak",
+        "LabelName": "Steel Wool/OBE/Art Club",
+        "Price": {
+            "Amount": 23.5,
+            "Currency": "EUR"
+        },
+        "PictureUri": "https://mycdn.com/pictures/45345345",
+        "ReleaseDate": "2016-01-01T00:00:00+00:00",
+        "Format": "Vinyl 33g",
+        "AvailableStock": 3,
+        "GenreId": "a11f40b6-a248-448f-a87c-49b3a126c2f1",
+        "Genre": null,
+        "ArtistId": "9a530d45-5f34-4bc5-ab38-9ac93eab26c3",
+        "Artist": null
+    }
+]
