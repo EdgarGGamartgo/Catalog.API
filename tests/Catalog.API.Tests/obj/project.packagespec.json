@@ -44,7 +44,7 @@
         },
         "Moq": {
           "target": "Package",
-          "version": "[4.14.3, )"
+          "version": "[4.14.5, )"
         },
         "Shouldly": {
           "target": "Package",

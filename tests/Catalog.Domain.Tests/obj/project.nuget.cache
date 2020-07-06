@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5rYPr8rmYpDGo8J/ghzz2kkEK/9yl5z8tLFGyiVWqr+oJ9+LdWLyRbpDxm3PrGb7+ScvnqYy8p8EtE9+NT6bvA==",
+  "dgSpecHash": "5nI4waE0hdKGoWpkeOJ4xUCUUEbCB2guLR6vBuCrxFx2gdn0iFOaEKl/SWgPA4y/7xPBFytFr8NG5IziChMcBQ==",
   "success": true,
   "projectFilePath": "C:\\aspnet\\Catalog.API\\tests\\Catalog.Domain.Tests\\Catalog.Domain.Tests.csproj",
   "expectedPackageFiles": [

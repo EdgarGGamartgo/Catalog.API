@@ -11,8 +11,19 @@
     &lt;TestId&gt;xUnit::42B37D67-FAEA-4CB9-9F82-5B5043F31B32::.NETCoreApp,Version=v3.1::Catalog.API.Tests.Controllers.ItemControllerTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ad35c7c1_002Dcf22_002D4431_002D9e58_002Deec5520ca36c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="add_should_create_new_artist #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::42B37D67-FAEA-4CB9-9F82-5B5043F31B32::.NETCoreApp,Version=v3.1::Catalog.API.Tests.Controllers.ArtistControllerTests.add_should_create_new_artist&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba8be15a_002D9d5d_002D49da_002D892e_002Ddae17bf0fca2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItemControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
     &lt;TestId&gt;xUnit::42B37D67-FAEA-4CB9-9F82-5B5043F31B32::.NETCoreApp,Version=v3.1::Catalog.API.Tests.Controllers.ItemControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c4120605_002Df826_002D482b_002D8310_002D688339cb9fe6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="add_should_create_new_artist" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::42B37D67-FAEA-4CB9-9F82-5B5043F31B32::.NETCoreApp,Version=v3.1::Catalog.API.Tests.Controllers.ArtistControllerTests.add_should_create_new_artist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::42B37D67-FAEA-4CB9-9F82-5B5043F31B32::.NETCoreApp,Version=v3.1::Catalog.API.Tests.Controllers.ArtistControllerTests.smoke_test_on_items&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

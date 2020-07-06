@@ -35,7 +35,7 @@ namespace Catalog.API
              .AddCatalogContext(Configuration.GetSection("DataSource:ConnectionString").Value)
              .AddScoped<IItemRepository, ItemRepository>()
              .AddScoped<IArtistRepository, ArtistRepository>()
-             .AddScoped<IGenreRepository, IGenreRepository>()
+             .AddScoped<IGenreRepository, GenreRepository>()
              .AddMappers()
              .AddServices()
              .AddControllers()

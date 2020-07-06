@@ -28,7 +28,7 @@
           "Catalog.Fixtures": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Testing": "3.1.5",
           "Microsoft.NET.Test.Sdk": "16.5.0",
-          "Moq": "4.14.3",
+          "Moq": "4.14.5",
           "Shouldly": "2.8.2",
           "coverlet.collector": "1.2.0",
           "xunit": "2.4.0",
@@ -1251,7 +1251,7 @@
           "System.Security.Principal.Windows": "4.7.0"
         }
       },
-      "Moq/4.14.3": {
+      "Moq/4.14.5": {
         "dependencies": {
           "Castle.Core": "4.4.0",
           "System.Threading.Tasks.Extensions": "4.5.1"
@@ -1259,7 +1259,7 @@
         "runtime": {
           "lib/netstandard2.0/Moq.dll": {
             "assemblyVersion": "4.14.0.0",
-            "fileVersion": "4.14.3.0"
+            "fileVersion": "4.14.5.0"
           }
         },
         "compile": {
@@ -2496,7 +2496,8 @@
         "dependencies": {
           "AutoMapper": "9.0.0",
           "FluentValidation": "8.6.2",
-          "FluentValidation.AspNetCore": "8.6.2"
+          "FluentValidation.AspNetCore": "8.6.2",
+          "Moq": "4.14.5"
         },
         "runtime": {
           "Catalog.Domain.dll": {}
@@ -4388,12 +4389,12 @@
       "path": "microsoft.win32.registry/4.7.0",
       "hashPath": "microsoft.win32.registry.4.7.0.nupkg.sha512"
     },
-    "Moq/4.14.3": {
+    "Moq/4.14.5": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-1MB/1YJ9irnhsMXoqJVMUSNZpxpfOJFocLebnd3LMZQ8D8cJE22DxSS+dA7trrHbZf+IWVtbbb0AR+xz/RG/Eg==",
-      "path": "moq/4.14.3",
-      "hashPath": "moq.4.14.3.nupkg.sha512"
+      "sha512": "sha512-g/TLN+z6Fjd1E3DAUDbBI3nZcNDUXGKGEmImYqJdZ9TzvjME9KkE4BfV4vsKSXm3Of/C0y+rQKW3/5QSCeTUPA==",
+      "path": "moq/4.14.5",
+      "hashPath": "moq.4.14.5.nupkg.sha512"
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",

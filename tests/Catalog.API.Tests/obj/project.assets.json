@@ -944,7 +944,7 @@
           }
         }
       },
-      "Moq/4.14.3": {
+      "Moq/4.14.5": {
         "type": "package",
         "dependencies": {
           "Castle.Core": "4.4.0",
@@ -2951,10 +2951,7 @@
         },
         "runtime": {
           "bin/placeholder/Catalog.Fixtures.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "Catalog.Infrastructure/1.0.0": {
         "type": "project",
@@ -4266,10 +4263,10 @@
         "version.txt"
       ]
     },
-    "Moq/4.14.3": {
-      "sha512": "1MB/1YJ9irnhsMXoqJVMUSNZpxpfOJFocLebnd3LMZQ8D8cJE22DxSS+dA7trrHbZf+IWVtbbb0AR+xz/RG/Eg==",
+    "Moq/4.14.5": {
+      "sha512": "g/TLN+z6Fjd1E3DAUDbBI3nZcNDUXGKGEmImYqJdZ9TzvjME9KkE4BfV4vsKSXm3Of/C0y+rQKW3/5QSCeTUPA==",
       "type": "package",
-      "path": "moq/4.14.3",
+      "path": "moq/4.14.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4277,7 +4274,7 @@
         "lib/net45/Moq.xml",
         "lib/netstandard2.0/Moq.dll",
         "lib/netstandard2.0/Moq.xml",
-        "moq.4.14.3.nupkg.sha512",
+        "moq.4.14.5.nupkg.sha512",
         "moq.nuspec"
       ]
     },
@@ -9183,7 +9180,7 @@
       "Catalog.Fixtures >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Testing >= 3.1.5",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
-      "Moq >= 4.14.3",
+      "Moq >= 4.14.5",
       "Shouldly >= 2.8.2",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
@@ -9244,7 +9241,7 @@
           },
           "Moq": {
             "target": "Package",
-            "version": "[4.14.3, )"
+            "version": "[4.14.5, )"
           },
           "Shouldly": {
             "target": "Package",
@@ -9274,9 +9271,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
@@ -9284,25 +9278,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Moq from 4.14.5 to 4.14.3. Reference the package directly from the project to select a different version. \r\n Catalog.API.Tests -> Catalog.Fixtures -> Catalog.Domain -> Moq (>= 4.14.5) \r\n Catalog.API.Tests -> Moq (>= 4.14.3)",
-      "libraryId": "Moq",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Moq from 4.14.5 to 4.14.3. Reference the package directly from the project to select a different version. \r\n Catalog.API.Tests -> Catalog.API -> Catalog.Infrastructure -> Catalog.Domain -> Moq (>= 4.14.5) \r\n Catalog.API.Tests -> Moq (>= 4.14.3)",
-      "libraryId": "Moq",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "171BwQCl0gnt0xMEfgF1mcICzz8tG6NEmO+mauK748W1NcIogO/FUjh/ReBYHIR8ZP3UNFVZidfyUkD1EmSOBQ==",
-  "success": false,
+  "dgSpecHash": "5vy+S6JYhslA7xIIpZGI2bjf7UQ77vQ4poZKcemdsPa9Jr9XQ7IKHB0JUnXoKxWtZKQvibShqdwcHbi6YERFPA==",
+  "success": true,
   "projectFilePath": "C:\\aspnet\\Catalog.API\\tests\\Catalog.API.Tests\\Catalog.API.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
@@ -59,7 +59,7 @@
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
-    "C:\\Users\\Edgar Martínez\\.nuget\\packages\\moq\\4.14.3\\moq.4.14.3.nupkg.sha512",
+    "C:\\Users\\Edgar Martínez\\.nuget\\packages\\moq\\4.14.5\\moq.4.14.5.nupkg.sha512",
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
@@ -179,24 +179,5 @@
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
     "C:\\Users\\Edgar Martínez\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Moq from 4.14.5 to 4.14.3. Reference the package directly from the project to select a different version. \r\n Catalog.API.Tests -> Catalog.Fixtures -> Catalog.Domain -> Moq (>= 4.14.5) \r\n Catalog.API.Tests -> Moq (>= 4.14.3)",
-      "libraryId": "Moq",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Detected package downgrade: Moq from 4.14.5 to 4.14.3. Reference the package directly from the project to select a different version. \r\n Catalog.API.Tests -> Catalog.API -> Catalog.Infrastructure -> Catalog.Domain -> Moq (>= 4.14.5) \r\n Catalog.API.Tests -> Moq (>= 4.14.3)",
-      "libraryId": "Moq",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }
