@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Catalog.Domain.Entities;
 using Catalog.Domain.Repositories;
+using Catalog.Domain.Responses.Item;
 using Microsoft.EntityFrameworkCore;
 
 namespace Catalog.Infrastructure.Repositories
@@ -15,6 +16,28 @@ namespace Catalog.Infrastructure.Repositories
         public ItemRepository(CatalogContext context)
         {
             _context = context??throw new ArgumentNullException(nameof(context));
+        }
+
+        public async Task<IEnumerable<Item>> GetItemByArtistIdAsync(Guid id)
+        {
+            var items = await _context
+                .Items
+                .Where(item => item.ArtistId == id)
+                .Include(x => x.Genre)
+                .Include(x => x.Artist)
+                .ToListAsync();
+            return items;
+        }
+
+        public async Task<IEnumerable<Item>> GetItemByGenreIdAsync(Guid id)
+        {
+            var items = await _context.Items
+                .Where(item => item.GenreId == id)
+                .Include(x => x.Genre)
+                .Include(x => x.Artist)
+                .ToListAsync();
+
+            return items;
         }
 
         public async Task<IEnumerable<Item>> GetAsync()

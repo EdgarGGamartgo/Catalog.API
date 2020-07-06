@@ -56,3 +56,8 @@ C:\aspnet\Catalog.API\src\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Ca
 C:\aspnet\Catalog.API\src\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
 C:\aspnet\Catalog.API\src\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
 C:\aspnet\Catalog.API\src\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.genruntimeconfig.cache
+C:\aspnet\Catalog.API\src\Catalog.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\aspnet\Catalog.API\src\Catalog.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\aspnet\Catalog.API\src\Catalog.API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\aspnet\Catalog.API\src\Catalog.API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\aspnet\Catalog.API\src\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs

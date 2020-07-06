@@ -6,14 +6,14 @@ namespace Catalog.API.Extensions
 {
     public static class DatabaseExtensions
     {
-        public static IServiceCollection AddCatalogContext(this IServiceCollection services)
+        public static IServiceCollection AddCatalogContext(this IServiceCollection services, string connectionString)
         {
             return services
                 .AddEntityFrameworkSqlServer()
                 .AddDbContext<CatalogContext>(contextOptions =>
                 {
                     contextOptions.UseSqlServer(
-                        "Server=localhost,1433;Initial Catalog=Store;User Id=catalog_srv;Password=P@ssw0rd",
+                        connectionString,
                         serverOptions => {
                             serverOptions.MigrationsAssembly
                             (typeof(Startup).Assembly.FullName);

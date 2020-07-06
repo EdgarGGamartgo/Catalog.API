@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3ab94ac9_002D658d_002D404e_002D8383_002D0d165583d99b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="should_get_data" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::54EF2C55-17BE-4B56-9896-CBA215BAF3BF::.NETCoreApp,Version=v3.1::Catalog.Infrastructure.Tests.ItemRepositoryTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7b6640ce_002D8ca0_002D4f35_002D94e4_002Dfa9848d060b7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItemServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::FBBD9D07-1A4D-4D26-9512-43D4E0EE6772::.NETCoreApp,Version=v3.1::Catalog.Domain.Tests.Services.ItemServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::FBBD9D07-1A4D-4D26-9512-43D4E0EE6772::.NETCoreApp,Version=v3.1::Catalog.Domain.Tests.Requests.Item.Validators.AddItemRequestValidatorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::42B37D67-FAEA-4CB9-9F82-5B5043F31B32::.NETCoreApp,Version=v3.1::Catalog.API.Tests.Controllers.ItemControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba8be15a_002D9d5d_002D49da_002D892e_002Ddae17bf0fca2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ItemControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::42B37D67-FAEA-4CB9-9F82-5B5043F31B32::.NETCoreApp,Version=v3.1::Catalog.API.Tests.Controllers.ItemControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
